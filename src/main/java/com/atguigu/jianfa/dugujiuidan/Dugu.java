@@ -8,5 +8,9 @@ package com.atguigu.jianfa.dugujiuidan;
 public class Dugu {
     public static void main(String[] args) {
         System.out.println("jianfa dugujiujian !!!!!!!!");
+        System.out.println("jianfa dugujiujian !!!2222");
+        System.out.println("jianfa dugujiujian !!!333");
+        System.out.println("jianfa dugujiujian !!444");
+        System.out.println("jianfa dugujiujian !!555");
     }
 }
